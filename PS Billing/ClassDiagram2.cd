@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PS_Billing.About" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQACAQCAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmadd" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAACAAAAIAAACoAgwCAAAAAAEAQAASAAAAAAA=</HashCode>
+      <FileName>Add.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmAdminDashboard" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAgCEBhCAAAQCAIiAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>Admin Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmBill">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0QAAAQCAiQAgAWAFYeADEACAFSioBAlEAAQgxBAgZQ=</HashCode>
+      <FileName>Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmEditStaff" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwAAQAgCAiAEAACACICAAAACCADAgAAgAAAJQQBAIII=</HashCode>
+      <FileName>Edit Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmHome" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAICAQESACAAiKAACAACQKBAAQBAAAAEAAQABAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmLogin" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAcCACAAIAAACIAAQCAAACAAEABEAAAQBYAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.mysql" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgBAAAAAAAAAAEAAABAAAAAAAACAAA=</HashCode>
+      <FileName>mysql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmNewStaff" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwAAQAgCACACAACACACAAAQCAADAgAAgAAAJQQBAIAI=</HashCode>
+      <FileName>New Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.Program" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmSearchBill" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEEABgCEGQQAiAACAAATCAAQCoCggEAABQAAAAQQ=</HashCode>
+      <FileName>SearchBill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmStaffs" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAgAABACACAQCCAACAAAACAACAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Staffs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmTaxDetails">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIYkABBCACAQCiAACoEIiCAQCEgBIAQgAGBAJAAAE=</HashCode>
+      <FileName>TaxDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.frmWelcome_screen" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAABAAAKACAAAAAACAAAADAAAAAAQAAAAAAQBAAAE=</HashCode>
+      <FileName>Welcome screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgxAgAAABAIIBJkAAAAQAAEACABBgAAAAAIIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PS_Billing.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

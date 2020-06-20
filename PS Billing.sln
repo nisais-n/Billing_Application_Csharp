@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS Billing", "PS Billing\PS Billing.csproj", "{AFBEFE29-85EC-4A33-AA0E-BC72FECC9431}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PS Billing Setup", "PS Billing Setup\PS Billing Setup.vdproj", "{3E92EE35-CBCF-4915-A249-1977515CBD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBEFE29-85EC-4A33-AA0E-BC72FECC9431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBEFE29-85EC-4A33-AA0E-BC72FECC9431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBEFE29-85EC-4A33-AA0E-BC72FECC9431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBEFE29-85EC-4A33-AA0E-BC72FECC9431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E92EE35-CBCF-4915-A249-1977515CBD49}.Debug|Any CPU.ActiveCfg = Debug
+		{3E92EE35-CBCF-4915-A249-1977515CBD49}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
